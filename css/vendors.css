@@ -8085,6 +8085,10 @@ textarea.form-control-lg {
   flex-wrap: nowrap !important;
 }
 
+.font-202{
+  font-size: 10px !important;
+}
+
 .flex-wrap-reverse {
   flex-wrap: wrap-reverse !important;
 }
